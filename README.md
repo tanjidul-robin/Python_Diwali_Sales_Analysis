@@ -8,6 +8,8 @@
 
 ## Data Cleaning
 
+![GitHub Logo]([https://example.com/path/to/your/image.png](https://github.com/tanjidul-robin/media_upload/blob/main/Screenshot%202023-10-03%20143737.png))
+
 ## Exploratory Data Analysis
 
 ### Gender
